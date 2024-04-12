@@ -1,0 +1,3 @@
+Ovo je radjeno u glavnoj grani
+ima potrebe da se doradi u jednom delu
+to cemo prepustiti da se to uradu u drugoj grani i da se kasnije spoji na glavnu
