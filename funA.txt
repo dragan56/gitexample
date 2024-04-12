@@ -3,4 +3,4 @@ ima potrebe da se doradi u jednom delu
 to cemo prepustiti da se to uradu u drugoj grani i da se kasnije spoji na glavnu
 Ovaj red pa na dalje uradio sam u novojgrani
 sada kada je gotovo napraviti cemo komit i dodati an glavnu granu
-a zatim izbrisati ovu granu prekosutra
+a zatim izbrisati ovu granu zauvek
